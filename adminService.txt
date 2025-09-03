@@ -1,7 +1,7 @@
 and and remove user
 change the roles
 manage the database
-closing the databse connection
+closing the databse connection1
 
 change 1
 <<<<<<< HEAD
